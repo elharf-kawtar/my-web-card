@@ -13,9 +13,9 @@ body {
   align-items: center;
 }
 
-/* La carte */
+
 .card {
-  width: 350px;
+  width: 400px;
   background: white;
   border-radius: 20px;
   overflow: hidden;
