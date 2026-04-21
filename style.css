@@ -29,7 +29,7 @@ body {
   box-shadow: 0 30px 50px rgba(0,0,0,0.3);
 }
 
-/* En-tête */
+
 .card-header {
   background: linear-gradient(135deg, #667eea, #764ba2);
   padding: 2rem;
@@ -64,7 +64,7 @@ body {
   font-size: 0.9rem;
 }
 
-/* Corps */
+
 .card-body {
   padding: 1.5rem;
   text-align: center;
@@ -98,7 +98,7 @@ body {
   color: white;
 }
 
-/* Boutons */
+
 .buttons {
   display: flex;
   gap: 1rem;
@@ -137,7 +137,7 @@ body {
   transform: scale(1.05);
 }
 
-/* Message */
+
 .message {
   margin-top: 1rem;
   padding: 0.8rem;
